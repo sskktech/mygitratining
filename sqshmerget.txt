@@ -1,1 +1,1 @@
-squash merge demo test 2nd change.
+squash merge demo test 2nd change for reject.
